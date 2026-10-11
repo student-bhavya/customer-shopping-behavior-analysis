@@ -62,6 +62,12 @@ Created an interactive dashboard with key performance indicators and visualizati
 
 Filters allow users to explore the data by selected customer and shopping attributes.
 
+## Power BI Dashboard
+
+The interactive dashboard summarizes customer shopping behavior through key metrics and visualizations.
+
+![Customer Shopping Behavior Dashboard](Final_Dashboard.png)
+
 ## Key Findings
 
 - Gloves had the highest average review rating among the five highest-rated products, at 3.86.
